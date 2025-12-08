@@ -1,4 +1,4 @@
-# HoragaV2 — Sistema de Agendamento de Salas e Laboratórios
+# Horaga — Sistema de Agendamento de Salas e Laboratórios
 
 ## Título e Descrição
 HoragaV2 é um sistema de agendamento para controle de espaços (salas, laboratórios, auditórios) em instituições educacionais ou empresas. O sistema permite:
