@@ -314,7 +314,7 @@ const interactiveFeatures = [
             <span class="text-xl font-bold">HORAGÁ</span>
           </div>
           <p class="text-sm max-w-xs leading-relaxed">
-            A solução completa para agendamento de salas e laboratórios. Feito com ❤️ por Gabriel Santini.
+            A solução completa para agendamento de salas e laboratórios. Feito com ❤️ pela Equipe Horaga.
           </p>
         </div>
         
